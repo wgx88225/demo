@@ -92,11 +92,7 @@
                             <artifactId>lombok</artifactId>
                         </exclude>
                     </excludes>
-                    <properties>
-                        <!-- 跳过测试 -->
-                        <skipTests>true</skipTests>
-                    </properties>
-
+                    
                 </configuration>
 
             </plugin>
