@@ -1,0 +1,336 @@
+2022-01-26 11:17:11.583 [XNIO-1 task-1] INFO  traceId[99421c6f-1e4b-4f3e-9bba-efb68ca08e06] com.example.demo.controller.TopicManageController:34 - 提交题目信息：{"createBy":"0","img":"","optionItem":[{"correct":false,"option":"定义范围","serialNumber":1},{"correct":false,"option":"控制质量","serialNumber":2},{"correct":true,"option":"确认范围","serialNumber":3},{"correct":false,"option":"非上述选项","serialNumber":4}],"queSetId":1,"remark":"5.5.2.3 确认范围过程的工具是检查。检查有时也被称为审查、产品审查、审计和巡检等。","topicDesc":"你的项目涉及为运输业制造高精度引擎部件。为确定可交付成果是否符合产品验收标准，你必须进行几次审查、产品审查、审计和巡视。这些活动在哪个过程中展开？","topicType":1,"updateB":"0"}
+2022-01-26 11:17:11.651 [XNIO-1 task-1] INFO  traceId[99421c6f-1e4b-4f3e-9bba-efb68ca08e06] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 11:19:50.728 [XNIO-1 task-1] INFO  traceId[90517c80-e3fb-483e-ae73-3cd0b970dfe1] com.example.demo.controller.TopicManageController:34 - 提交题目信息：{"createBy":"0","img":"","optionItem":[{"correct":true,"option":"记录新的风险，并继续规划风险应对过程","serialNumber":1},{"correct":false,"option":"确保项目工作更好的理解","serialNumber":2},{"correct":false,"option":"花更多的时间来明确的界定风险应对措施","serialNumber":3},{"correct":false,"option":"获取更多的人参与识别风险的过程，因为风险已经错过了","serialNumber":4}],"queSetId":1,"remark":"应对措施引发另一个风险，就应该识别并记录新风险。原来在进行的规划风险应对过程要继续。","topicDesc":"项目经理创建风险应对计划。然而每一次建议一个风险应对措施，这个应对措施引发另一个风险。下列哪项是项目经理做的最好的事情？","topicType":1,"updateB":"0"}
+2022-01-26 11:19:50.752 [XNIO-1 task-1] INFO  traceId[90517c80-e3fb-483e-ae73-3cd0b970dfe1] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 11:22:11.235 [XNIO-1 task-1] INFO  traceId[459c3563-ee54-44a0-8006-b43f9f9e9d61] com.example.demo.controller.TopicManageController:34 - 提交题目信息：{"createBy":"0","img":"","optionItem":[{"correct":false,"option":"完工预算","serialNumber":1},{"correct":false,"option":"挣值","serialNumber":2},{"correct":true,"option":"实际成本","serialNumber":3},{"correct":false,"option":"计划价值","serialNumber":4}],"queSetId":1,"remark":"风险对项目的影响可以量化为实际成本来衡量，比如一个风险可能造成 100万的损失，这个 100 万就是如果风险发生造成的实际成本上升，可以用这个数字来说明风险的影响力。","topicDesc":"在项目执行期间，应该用什么技术来数字量化确定风险对总体项目目标的影响？","topicType":1,"updateB":"0"}
+2022-01-26 11:22:11.258 [XNIO-1 task-1] INFO  traceId[459c3563-ee54-44a0-8006-b43f9f9e9d61] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 11:24:32.295 [XNIO-1 task-1] INFO  traceId[7d2dcda5-6ae2-409b-8a94-cb8ca118df45] com.example.demo.controller.TopicManageController:34 - 提交题目信息：{"createBy":"0","img":"","optionItem":[{"correct":false,"option":"沟通管理计划","serialNumber":1},{"correct":true,"option":"沟通技术","serialNumber":2},{"correct":false,"option":"专家判断","serialNumber":3},{"correct":false,"option":"信息收集和检索系统","serialNumber":4}],"queSetId":1,"remark":"要确定相关方的信息需求，需要使用到沟通技术。","topicDesc":"项目经理目前正在处于项目规划阶段，努力确定项目相关方的信息需求。项目经理将使用下列哪一项工具或技术？","topicType":1,"updateB":"0"}
+2022-01-26 11:24:32.316 [XNIO-1 task-1] INFO  traceId[7d2dcda5-6ae2-409b-8a94-cb8ca118df45] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 11:25:40.775 [XNIO-1 task-1] INFO  traceId[4df22a66-fc60-4f92-8456-9a80c5bd777a] com.example.demo.controller.TopicManageController:34 - 提交题目信息：{"createBy":"0","img":"","optionItem":[{"correct":false,"option":"一个产品","serialNumber":1},{"correct":false,"option":"服务能力","serialNumber":2},{"correct":true,"option":"工作绩效数据","serialNumber":3},{"correct":false,"option":"项目管理计划","serialNumber":4}],"queSetId":1,"remark":"工作绩效数据。在执行项目工作的过程中，从每个正在执行的活动中收集到的原始观察结果和测量值。是项目管理过程中的琐碎信息，不是可交付成果。","topicDesc":"以下都是可交付成果，除了：","topicType":1,"updateB":"0"}
+2022-01-26 11:25:40.805 [XNIO-1 task-1] INFO  traceId[4df22a66-fc60-4f92-8456-9a80c5bd777a] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 11:27:38.287 [XNIO-1 task-1] INFO  traceId[6886c89a-f19e-486c-8cc4-18a8865acbf3] com.example.demo.controller.TopicManageController:34 - 提交题目信息：{"createBy":"0","img":"","optionItem":[{"correct":false,"option":"潜示权力","serialNumber":1},{"correct":true,"option":"专家权力","serialNumber":2},{"correct":false,"option":"惩罚权力","serialNumber":3},{"correct":false,"option":"正式权力","serialNumber":4}],"queSetId":1,"remark":"因为没有正式权力，故谈不上惩罚权力。潜示权力即参照权力：基于项目经理提及别的职位较高的权力。在此环境下也难其左右。专家权力：作为技术或项目管理方面的专家而产生的权力。通过专家权力展现个人魅力，吸引大家跟随。","topicDesc":"你是一名项目经理，在弱矩阵环境中负责一交叉职能的项目。没有团队成员向你汇报，你也不能奖励他们。项目很难，包括时间很紧，质量标准也很有挑战性。这时，下列哪种项目管理权力可能最为有效？","topicType":1,"updateB":"0"}
+2022-01-26 11:27:38.309 [XNIO-1 task-1] INFO  traceId[6886c89a-f19e-486c-8cc4-18a8865acbf3] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 11:28:46.666 [XNIO-1 task-1] INFO  traceId[2d5dc27d-75f5-4ecd-b9a4-82e7a53c18f8] com.example.demo.controller.TopicManageController:34 - 提交题目信息：{"createBy":"0","img":"","optionItem":[{"correct":false,"option":"它们可以帮助选择一个项目","serialNumber":1},{"correct":false,"option":"它们可以是该项目第一阶段或一个单独的项目","serialNumber":2},{"correct":false,"option":"它们可以被用来确定项目是否应该被完成","serialNumber":3},{"correct":true,"option":"它们可以被用来确定项目团队成员","serialNumber":4}],"queSetId":1,"remark":"《PMBOK 指南》2.4.2 项目生命周期。原文：例如，某个组织可能将可行性研究作为常规的项目前工作，某个组织将其作为项目的第一个阶段，而另一个组织则可能视其为一个独立的项目。","topicDesc":"下列有关项目的可行性研究报告是正确的，除了：","topicType":1,"updateB":"0"}
+2022-01-26 11:28:46.687 [XNIO-1 task-1] INFO  traceId[2d5dc27d-75f5-4ecd-b9a4-82e7a53c18f8] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 11:30:22.225 [XNIO-1 task-1] INFO  traceId[784d1c70-ae1f-4c77-9d8e-0313c72292d6] com.example.demo.controller.TopicManageController:34 - 提交题目信息：{"createBy":"0","img":"","optionItem":[{"correct":false,"option":"把这两个人分开，直到项目恢复正规","serialNumber":1},{"correct":true,"option":"分别和他们谈话，给予口头警告","serialNumber":2},{"correct":false,"option":"和他们的经理讨论这个问题","serialNumber":3},{"correct":false,"option":"和他们两人以及他们的经理讨论确定冲突的来源","serialNumber":4}],"queSetId":1,"remark":"项目已然处于进度落后的危险之中，此时出状况实属紧急，故需要立即解决。可以采用强制方法处理冲突。","topicDesc":"你的项目计划进度很紧，而且处于进度落后的危险之中，这时两个团队成员吵了起来，干扰了正在进行的状态会议。作为项目经理你最好应该：","topicType":1,"updateB":"0"}
+2022-01-26 11:30:22.246 [XNIO-1 task-1] INFO  traceId[784d1c70-ae1f-4c77-9d8e-0313c72292d6] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 11:36:01.654 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:55 - Starting DemoApplicationTests on DESKTOP-6OUD5PV with PID 23156 (started by Administrator in E:\workplace\idea\demo)
+2022-01-26 11:36:01.655 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:651 - No active profile set, falling back to default profiles: default
+2022-01-26 11:36:02.360 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 11:36:02.363 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 11:36:02.398 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 22ms. Found 0 Redis repository interfaces.
+2022-01-26 11:36:02.701 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$c60d07f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 11:36:02.746 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$9229a6bb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 11:36:02.961 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 11:36:03.167 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 11:36:04.720 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 11:36:07.389 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 11:36:07.442 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:61 - Started DemoApplicationTests in 6.142 seconds (JVM running for 6.943)
+2022-01-26 11:36:07.599 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:64 - 开始生成pdf....
+2022-01-26 11:36:08.167 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:97 - 结束生成pdf....
+2022-01-26 11:36:08.182 [SpringContextShutdownHook] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'taskScheduler'
+2022-01-26 11:36:08.197 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2043 - {dataSource-1} closing ...
+2022-01-26 11:36:08.203 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2116 - {dataSource-1} closed
+2022-01-26 11:36:08.203 [SpringContextShutdownHook] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:218 - Shutting down ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 11:36:36.385 [main] INFO  traceId[] com.example.demo.DemoApplication:55 - Starting DemoApplication on DESKTOP-6OUD5PV with PID 18340 (E:\workplace\idea\demo\target\classes started by Administrator in E:\workplace\idea\demo)
+2022-01-26 11:36:36.388 [main] INFO  traceId[] com.example.demo.DemoApplication:651 - No active profile set, falling back to default profiles: default
+2022-01-26 11:36:36.956 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 11:36:36.958 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 11:36:36.987 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2022-01-26 11:36:37.163 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$15097c66] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 11:36:37.182 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$e1261b2c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 11:36:37.440 [main] INFO  traceId[] io.undertow.servlet:364 - Initializing Spring embedded WebApplicationContext
+2022-01-26 11:36:37.440 [main] INFO  traceId[] o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 1020 ms
+2022-01-26 11:36:37.536 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 11:36:37.623 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 11:36:38.606 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 11:36:40.287 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 11:36:40.320 [main] INFO  traceId[] io.undertow:117 - starting server: Undertow - 2.1.3.Final
+2022-01-26 11:36:40.324 [main] INFO  traceId[] org.xnio:95 - XNIO version 3.8.0.Final
+2022-01-26 11:36:40.331 [main] INFO  traceId[] org.xnio.nio:59 - XNIO NIO Implementation Version 3.8.0.Final
+2022-01-26 11:36:40.353 [main] INFO  traceId[] org.jboss.threads:52 - JBoss Threads version 3.1.0.Final
+2022-01-26 11:36:40.389 [main] INFO  traceId[] o.s.boot.web.embedded.undertow.UndertowWebServer:133 - Undertow started on port(s) 9090 (http)
+2022-01-26 11:36:40.399 [main] INFO  traceId[] com.example.demo.DemoApplication:61 - Started DemoApplication in 4.35 seconds (JVM running for 5.32)
+2022-01-26 11:37:04.519 [main] INFO  traceId[] com.example.demo.DemoApplication:55 - Starting DemoApplication on DESKTOP-6OUD5PV with PID 16492 (E:\workplace\idea\demo\target\classes started by Administrator in E:\workplace\idea\demo)
+2022-01-26 11:37:04.521 [main] INFO  traceId[] com.example.demo.DemoApplication:651 - No active profile set, falling back to default profiles: default
+2022-01-26 11:37:05.061 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 11:37:05.062 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 11:37:05.090 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2022-01-26 11:37:05.257 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$f15b3066] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 11:37:05.275 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$bd77cf2c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 11:37:05.465 [main] INFO  traceId[] io.undertow.servlet:364 - Initializing Spring embedded WebApplicationContext
+2022-01-26 11:37:05.466 [main] INFO  traceId[] o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 903 ms
+2022-01-26 11:37:05.517 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 11:37:05.604 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 11:37:06.549 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 11:37:08.240 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 11:37:08.271 [main] INFO  traceId[] io.undertow:117 - starting server: Undertow - 2.1.3.Final
+2022-01-26 11:37:08.275 [main] INFO  traceId[] org.xnio:95 - XNIO version 3.8.0.Final
+2022-01-26 11:37:08.281 [main] INFO  traceId[] org.xnio.nio:59 - XNIO NIO Implementation Version 3.8.0.Final
+2022-01-26 11:37:08.303 [main] INFO  traceId[] org.jboss.threads:52 - JBoss Threads version 3.1.0.Final
+2022-01-26 11:37:08.336 [main] INFO  traceId[] o.s.boot.web.embedded.undertow.UndertowWebServer:133 - Undertow started on port(s) 9090 (http)
+2022-01-26 11:37:08.348 [main] INFO  traceId[] com.example.demo.DemoApplication:61 - Started DemoApplication in 4.172 seconds (JVM running for 5.174)
+2022-01-26 11:37:23.807 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:55 - Starting DemoApplicationTests on DESKTOP-6OUD5PV with PID 22336 (started by Administrator in E:\workplace\idea\demo)
+2022-01-26 11:37:23.809 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:651 - No active profile set, falling back to default profiles: default
+2022-01-26 11:37:24.406 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 11:37:24.409 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 11:37:24.446 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 24ms. Found 0 Redis repository interfaces.
+2022-01-26 11:37:24.753 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$c67e9b25] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 11:37:24.797 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$929b39eb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 11:37:25.007 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 11:37:25.202 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 11:37:26.723 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 11:37:29.330 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 11:37:29.389 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:61 - Started DemoApplicationTests in 6.007 seconds (JVM running for 6.84)
+2022-01-26 11:37:29.538 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:64 - 开始生成pdf....
+2022-01-26 11:37:30.042 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:97 - 结束生成pdf....
+2022-01-26 11:37:30.058 [SpringContextShutdownHook] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'taskScheduler'
+2022-01-26 11:37:30.078 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2043 - {dataSource-1} closing ...
+2022-01-26 11:37:30.083 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2116 - {dataSource-1} closed
+2022-01-26 11:37:30.084 [SpringContextShutdownHook] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:218 - Shutting down ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 11:39:50.218 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:55 - Starting DemoApplicationTests on DESKTOP-6OUD5PV with PID 21004 (started by Administrator in E:\workplace\idea\demo)
+2022-01-26 11:39:50.220 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:651 - No active profile set, falling back to default profiles: default
+2022-01-26 11:39:50.888 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 11:39:50.890 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 11:39:50.930 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 25ms. Found 0 Redis repository interfaces.
+2022-01-26 11:39:51.234 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$7a1b17c0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 11:39:51.278 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$4637b686] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 11:39:51.483 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 11:39:51.691 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 11:39:53.213 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 11:39:55.841 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 11:39:55.887 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:61 - Started DemoApplicationTests in 6.015 seconds (JVM running for 6.803)
+2022-01-26 11:39:56.030 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:64 - 开始生成pdf....
+2022-01-26 11:39:56.350 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:97 - 结束生成pdf....
+2022-01-26 11:39:56.365 [SpringContextShutdownHook] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'taskScheduler'
+2022-01-26 11:39:56.382 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2043 - {dataSource-1} closing ...
+2022-01-26 11:39:56.386 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2116 - {dataSource-1} closed
+2022-01-26 11:39:56.386 [SpringContextShutdownHook] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:218 - Shutting down ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:14:54.009 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:55 - Starting DemoApplicationTests on DESKTOP-6OUD5PV with PID 23224 (started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:14:54.011 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:14:54.654 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:14:54.657 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:14:54.696 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 25ms. Found 0 Redis repository interfaces.
+2022-01-26 12:14:54.998 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$1986cf6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:14:55.044 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$cdb50bbc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:14:55.263 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:14:55.482 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:14:57.011 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:14:59.653 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:14:59.705 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:61 - Started DemoApplicationTests in 6.097 seconds (JVM running for 6.925)
+2022-01-26 12:14:59.856 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:64 - 开始生成pdf....
+2022-01-26 12:15:00.147 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:97 - 结束生成pdf....
+2022-01-26 12:15:00.163 [SpringContextShutdownHook] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'taskScheduler'
+2022-01-26 12:15:00.181 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2043 - {dataSource-1} closing ...
+2022-01-26 12:15:00.188 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2116 - {dataSource-1} closed
+2022-01-26 12:15:00.189 [SpringContextShutdownHook] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:218 - Shutting down ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:19:31.258 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:55 - Starting DemoApplicationTests on DESKTOP-6OUD5PV with PID 22292 (started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:19:31.259 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:19:31.873 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:19:31.876 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:19:31.922 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 29ms. Found 0 Redis repository interfaces.
+2022-01-26 12:19:32.350 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$9c87bb58] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:19:32.404 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$68a45a1e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:19:32.700 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:19:32.842 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:19:34.441 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:19:42.143 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:19:42.212 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:61 - Started DemoApplicationTests in 11.396 seconds (JVM running for 13.487)
+2022-01-26 12:19:42.402 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:65 - 开始生成pdf....
+2022-01-26 12:20:12.756 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:98 - 结束生成pdf....
+2022-01-26 12:20:12.775 [SpringContextShutdownHook] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'taskScheduler'
+2022-01-26 12:20:12.797 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2043 - {dataSource-1} closing ...
+2022-01-26 12:20:12.805 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2116 - {dataSource-1} closed
+2022-01-26 12:20:12.805 [SpringContextShutdownHook] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:218 - Shutting down ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:23:12.300 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:55 - Starting DemoApplicationTests on DESKTOP-6OUD5PV with PID 22164 (started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:23:12.302 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:23:13.049 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:23:13.053 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:23:13.132 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 53ms. Found 0 Redis repository interfaces.
+2022-01-26 12:23:13.486 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$7932042b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:23:13.536 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$454ea2f1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:23:13.837 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:23:14.010 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:23:15.630 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:23:18.691 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:23:18.755 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:61 - Started DemoApplicationTests in 7.042 seconds (JVM running for 8.144)
+2022-01-26 12:23:18.922 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:65 - 开始生成pdf....
+2022-01-26 12:24:46.873 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:98 - 结束生成pdf....
+2022-01-26 12:24:46.891 [SpringContextShutdownHook] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'taskScheduler'
+2022-01-26 12:24:46.912 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2043 - {dataSource-1} closing ...
+2022-01-26 12:24:46.921 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2116 - {dataSource-1} closed
+2022-01-26 12:24:46.922 [SpringContextShutdownHook] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:218 - Shutting down ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:24:54.734 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:55 - Starting DemoApplicationTests on DESKTOP-6OUD5PV with PID 16756 (started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:24:54.736 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:24:55.372 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:24:55.375 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:24:55.417 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 28ms. Found 0 Redis repository interfaces.
+2022-01-26 12:24:55.776 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$33796288] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:24:55.836 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$ff96014e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:24:56.209 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:24:56.365 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:24:58.058 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:25:01.265 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:25:01.354 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:61 - Started DemoApplicationTests in 7.135 seconds (JVM running for 8.182)
+2022-01-26 12:25:01.612 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:65 - 开始生成pdf....
+2022-01-26 12:25:50.676 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:98 - 结束生成pdf....
+2022-01-26 12:25:50.692 [SpringContextShutdownHook] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'taskScheduler'
+2022-01-26 12:25:50.711 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2043 - {dataSource-1} closing ...
+2022-01-26 12:25:50.719 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2116 - {dataSource-1} closed
+2022-01-26 12:25:50.719 [SpringContextShutdownHook] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:218 - Shutting down ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:28:19.580 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:55 - Starting DemoApplicationTests on DESKTOP-6OUD5PV with PID 18096 (started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:28:19.582 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:28:20.205 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:28:20.208 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:28:20.247 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 25ms. Found 0 Redis repository interfaces.
+2022-01-26 12:28:20.589 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$9df4a4f8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:28:20.641 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$6a1143be] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:28:20.940 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:28:21.084 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:28:22.673 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:28:25.560 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:28:25.633 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:61 - Started DemoApplicationTests in 6.551 seconds (JVM running for 7.572)
+2022-01-26 12:28:25.803 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:65 - 开始生成pdf....
+2022-01-26 12:30:55.436 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:98 - 结束生成pdf....
+2022-01-26 12:30:55.453 [SpringContextShutdownHook] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'taskScheduler'
+2022-01-26 12:30:55.476 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2043 - {dataSource-1} closing ...
+2022-01-26 12:30:55.486 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2116 - {dataSource-1} closed
+2022-01-26 12:30:55.486 [SpringContextShutdownHook] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:218 - Shutting down ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:31:03.183 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:55 - Starting DemoApplicationTests on DESKTOP-6OUD5PV with PID 18916 (started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:31:03.185 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:31:03.824 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:31:03.827 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:31:03.872 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 27ms. Found 0 Redis repository interfaces.
+2022-01-26 12:31:04.217 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$3880cab4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:31:04.269 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$49d697a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:31:04.575 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:31:04.734 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:31:06.341 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:31:09.407 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:31:09.465 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:61 - Started DemoApplicationTests in 6.819 seconds (JVM running for 7.874)
+2022-01-26 12:31:09.636 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:65 - 开始生成pdf....
+2022-01-26 12:31:10.006 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:98 - 结束生成pdf....
+2022-01-26 12:31:10.023 [SpringContextShutdownHook] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'taskScheduler'
+2022-01-26 12:31:10.043 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2043 - {dataSource-1} closing ...
+2022-01-26 12:31:10.051 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2116 - {dataSource-1} closed
+2022-01-26 12:31:10.051 [SpringContextShutdownHook] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:218 - Shutting down ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:33:28.391 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:55 - Starting DemoApplicationTests on DESKTOP-6OUD5PV with PID 19616 (started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:33:28.393 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:33:29.045 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:33:29.048 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:33:29.089 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 27ms. Found 0 Redis repository interfaces.
+2022-01-26 12:33:29.443 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$195f34b0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:33:29.496 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$e57bd376] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:33:29.803 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:33:29.987 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:33:31.674 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:33:34.573 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:33:34.629 [main] INFO  traceId[] com.example.demo.DemoApplicationTests:61 - Started DemoApplicationTests in 6.841 seconds (JVM running for 7.984)
+2022-01-26 12:33:34.796 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:65 - 开始生成pdf....
+2022-01-26 12:33:35.173 [main] INFO  traceId[] com.example.demo.pdf.PdfProblem:98 - 结束生成pdf....
+2022-01-26 12:33:35.189 [SpringContextShutdownHook] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:218 - Shutting down ExecutorService 'taskScheduler'
+2022-01-26 12:33:35.207 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2043 - {dataSource-1} closing ...
+2022-01-26 12:33:35.214 [SpringContextShutdownHook] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:2116 - {dataSource-1} closed
+2022-01-26 12:33:35.214 [SpringContextShutdownHook] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:218 - Shutting down ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:43:36.796 [main] INFO  traceId[] com.example.demo.DemoApplication:55 - Starting DemoApplication on DESKTOP-6OUD5PV with PID 23880 (E:\workplace\idea\demo\target\classes started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:43:36.799 [main] INFO  traceId[] com.example.demo.DemoApplication:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:43:37.393 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:43:37.395 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:43:37.424 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2022-01-26 12:43:37.598 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$50869f86] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:43:37.617 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$1ca33e4c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:43:37.806 [main] INFO  traceId[] io.undertow.servlet:364 - Initializing Spring embedded WebApplicationContext
+2022-01-26 12:43:37.807 [main] INFO  traceId[] o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 967 ms
+2022-01-26 12:43:37.859 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:43:37.942 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:43:38.900 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:43:40.597 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:43:40.628 [main] INFO  traceId[] io.undertow:117 - starting server: Undertow - 2.1.3.Final
+2022-01-26 12:43:40.632 [main] INFO  traceId[] org.xnio:95 - XNIO version 3.8.0.Final
+2022-01-26 12:43:40.638 [main] INFO  traceId[] org.xnio.nio:59 - XNIO NIO Implementation Version 3.8.0.Final
+2022-01-26 12:43:40.660 [main] INFO  traceId[] org.jboss.threads:52 - JBoss Threads version 3.1.0.Final
+2022-01-26 12:43:40.692 [main] INFO  traceId[] o.s.boot.web.embedded.undertow.UndertowWebServer:133 - Undertow started on port(s) 9090 (http)
+2022-01-26 12:43:40.701 [main] INFO  traceId[] com.example.demo.DemoApplication:61 - Started DemoApplication in 4.269 seconds (JVM running for 5.185)
+2022-01-26 12:45:27.377 [XNIO-1 task-1] INFO  traceId[] io.undertow.servlet:364 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-26 12:45:27.378 [XNIO-1 task-1] INFO  traceId[] org.springframework.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-01-26 12:45:27.383 [XNIO-1 task-1] INFO  traceId[] org.springframework.web.servlet.DispatcherServlet:547 - Completed initialization in 5 ms
+2022-01-26 12:45:27.466 [XNIO-1 task-1] INFO  traceId[2f829f4c-b117-4843-b8f9-712bc4f6fa74] com.example.demo.controller.TopicManageController:40 - 提交题目信息：{"createBy":"0","topicId":197,"updateB":"0"}
+2022-01-26 12:45:27.637 [XNIO-1 task-1] INFO  traceId[2f829f4c-b117-4843-b8f9-712bc4f6fa74] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 12:45:27.674 [XNIO-1 task-1] INFO  traceId[1ecf9423-db7d-4fbc-a63d-1d63630e4a19] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 12:48:43.194 [main] INFO  traceId[] com.example.demo.DemoApplication:55 - Starting DemoApplication on DESKTOP-6OUD5PV with PID 20172 (E:\workplace\idea\demo\target\classes started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:48:43.196 [main] INFO  traceId[] com.example.demo.DemoApplication:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:48:43.732 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:48:43.733 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:48:43.763 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2022-01-26 12:48:43.933 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$f80cb9f6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:48:43.952 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$c42958bc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:48:44.149 [main] INFO  traceId[] io.undertow.servlet:364 - Initializing Spring embedded WebApplicationContext
+2022-01-26 12:48:44.149 [main] INFO  traceId[] o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 920 ms
+2022-01-26 12:48:44.204 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:48:44.287 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:48:45.244 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:48:46.911 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:48:46.944 [main] INFO  traceId[] io.undertow:117 - starting server: Undertow - 2.1.3.Final
+2022-01-26 12:48:46.948 [main] INFO  traceId[] org.xnio:95 - XNIO version 3.8.0.Final
+2022-01-26 12:48:46.954 [main] INFO  traceId[] org.xnio.nio:59 - XNIO NIO Implementation Version 3.8.0.Final
+2022-01-26 12:48:46.977 [main] INFO  traceId[] org.jboss.threads:52 - JBoss Threads version 3.1.0.Final
+2022-01-26 12:48:47.013 [main] INFO  traceId[] o.s.boot.web.embedded.undertow.UndertowWebServer:133 - Undertow started on port(s) 9090 (http)
+2022-01-26 12:48:47.022 [main] INFO  traceId[] com.example.demo.DemoApplication:61 - Started DemoApplication in 4.164 seconds (JVM running for 5.081)
+2022-01-26 12:48:52.535 [XNIO-1 task-1] INFO  traceId[] io.undertow.servlet:364 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-26 12:48:52.535 [XNIO-1 task-1] INFO  traceId[] org.springframework.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-01-26 12:48:52.541 [XNIO-1 task-1] INFO  traceId[] org.springframework.web.servlet.DispatcherServlet:547 - Completed initialization in 5 ms
+2022-01-26 12:48:52.628 [XNIO-1 task-1] INFO  traceId[02845031-dc40-42cd-a0f0-3270c02bc1db] com.example.demo.controller.TopicManageController:40 - 提交题目信息：{"createBy":"0","topicId":197,"updateB":"0"}
+2022-01-26 12:48:52.756 [XNIO-1 task-1] INFO  traceId[02845031-dc40-42cd-a0f0-3270c02bc1db] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 12:48:52.790 [XNIO-1 task-1] INFO  traceId[13c147c2-c9c5-4768-8d20-07a6c5774625] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 12:50:29.811 [main] INFO  traceId[] com.example.demo.DemoApplication:55 - Starting DemoApplication on DESKTOP-6OUD5PV with PID 23492 (E:\workplace\idea\demo\target\classes started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:50:29.813 [main] INFO  traceId[] com.example.demo.DemoApplication:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:50:30.375 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:50:30.376 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:50:30.411 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 22ms. Found 0 Redis repository interfaces.
+2022-01-26 12:50:30.590 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$5126fee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:50:30.607 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$1d439da6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:50:30.807 [main] INFO  traceId[] io.undertow.servlet:364 - Initializing Spring embedded WebApplicationContext
+2022-01-26 12:50:30.807 [main] INFO  traceId[] o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 960 ms
+2022-01-26 12:50:30.861 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:50:30.944 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:50:31.893 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:50:33.560 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:50:33.591 [main] INFO  traceId[] io.undertow:117 - starting server: Undertow - 2.1.3.Final
+2022-01-26 12:50:33.595 [main] INFO  traceId[] org.xnio:95 - XNIO version 3.8.0.Final
+2022-01-26 12:50:33.602 [main] INFO  traceId[] org.xnio.nio:59 - XNIO NIO Implementation Version 3.8.0.Final
+2022-01-26 12:50:33.625 [main] INFO  traceId[] org.jboss.threads:52 - JBoss Threads version 3.1.0.Final
+2022-01-26 12:50:33.659 [main] INFO  traceId[] o.s.boot.web.embedded.undertow.UndertowWebServer:133 - Undertow started on port(s) 9090 (http)
+2022-01-26 12:50:33.668 [main] INFO  traceId[] com.example.demo.DemoApplication:61 - Started DemoApplication in 4.185 seconds (JVM running for 5.157)
+2022-01-26 12:50:50.717 [XNIO-1 task-1] INFO  traceId[] io.undertow.servlet:364 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-26 12:50:50.718 [XNIO-1 task-1] INFO  traceId[] org.springframework.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-01-26 12:50:50.723 [XNIO-1 task-1] INFO  traceId[] org.springframework.web.servlet.DispatcherServlet:547 - Completed initialization in 5 ms
+2022-01-26 12:50:50.811 [XNIO-1 task-1] INFO  traceId[7a36f731-88e1-4044-b06e-1fd88184bbe5] com.example.demo.controller.TopicManageController:40 - 提交题目信息：{"createBy":"0","errorNum":2,"topicId":197,"updateB":"0"}
+2022-01-26 12:50:50.928 [XNIO-1 task-1] INFO  traceId[7a36f731-88e1-4044-b06e-1fd88184bbe5] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 12:56:02.294 [main] INFO  traceId[] com.example.demo.DemoApplication:55 - Starting DemoApplication on DESKTOP-6OUD5PV with PID 23844 (E:\workplace\idea\demo\target\classes started by Administrator in E:\workplace\idea\demo)
+2022-01-26 12:56:02.296 [main] INFO  traceId[] com.example.demo.DemoApplication:651 - No active profile set, falling back to default profiles: default
+2022-01-26 12:56:02.845 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:249 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-01-26 12:56:02.847 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:127 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-01-26 12:56:02.875 [main] INFO  traceId[] o.s.d.r.config.RepositoryConfigurationDelegate:187 - Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2022-01-26 12:56:03.049 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'threadPoolConfig' of type [com.example.demo.config.ThreadPoolConfig$$EnhancerBySpringCGLIB$$18ee36cf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:56:03.067 [main] INFO  traceId[] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:335 - Bean 'org.springframework.retry.annotation.RetryConfiguration' of type [org.springframework.retry.annotation.RetryConfiguration$$EnhancerBySpringCGLIB$$e50ad595] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-01-26 12:56:03.266 [main] INFO  traceId[] io.undertow.servlet:364 - Initializing Spring embedded WebApplicationContext
+2022-01-26 12:56:03.266 [main] INFO  traceId[] o.s.b.w.s.c.ServletWebServerApplicationContext:285 - Root WebApplicationContext: initialization completed in 937 ms
+2022-01-26 12:56:03.321 [main] INFO  traceId[] c.example.demo.config.ThreadPoolExecutorMdcWrapper:181 - Initializing ExecutorService 'threadPoolTaskExecutor'
+2022-01-26 12:56:03.407 [main] INFO  traceId[] c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2022-01-26 12:56:04.474 [main] INFO  traceId[] com.alibaba.druid.pool.DruidDataSource:990 - {dataSource-1} inited
+2022-01-26 12:56:06.157 [main] INFO  traceId[] o.s.scheduling.concurrent.ThreadPoolTaskScheduler:181 - Initializing ExecutorService 'taskScheduler'
+2022-01-26 12:56:06.190 [main] INFO  traceId[] io.undertow:117 - starting server: Undertow - 2.1.3.Final
+2022-01-26 12:56:06.194 [main] INFO  traceId[] org.xnio:95 - XNIO version 3.8.0.Final
+2022-01-26 12:56:06.201 [main] INFO  traceId[] org.xnio.nio:59 - XNIO NIO Implementation Version 3.8.0.Final
+2022-01-26 12:56:06.224 [main] INFO  traceId[] org.jboss.threads:52 - JBoss Threads version 3.1.0.Final
+2022-01-26 12:56:06.258 [main] INFO  traceId[] o.s.boot.web.embedded.undertow.UndertowWebServer:133 - Undertow started on port(s) 9090 (http)
+2022-01-26 12:56:06.267 [main] INFO  traceId[] com.example.demo.DemoApplication:61 - Started DemoApplication in 4.327 seconds (JVM running for 5.257)
+2022-01-26 12:56:49.240 [XNIO-1 task-1] INFO  traceId[] io.undertow.servlet:364 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-26 12:56:49.240 [XNIO-1 task-1] INFO  traceId[] org.springframework.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-01-26 12:56:49.247 [XNIO-1 task-1] INFO  traceId[] org.springframework.web.servlet.DispatcherServlet:547 - Completed initialization in 6 ms
+2022-01-26 12:56:49.268 [XNIO-1 task-1] INFO  traceId[de808af1-a4b4-471d-9bea-4ced2766bddc] com.example.demo.controller.TopicManageController:49 - 提交题目信息：topicId:238
+2022-01-26 12:56:49.434 [XNIO-1 task-1] INFO  traceId[de808af1-a4b4-471d-9bea-4ced2766bddc] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 12:57:16.328 [XNIO-1 task-1] INFO  traceId[885221ee-cb62-4d45-b9b4-4eeca0813004] com.example.demo.controller.TopicManageController:49 - 提交题目信息：topicId:175
+2022-01-26 12:57:16.339 [XNIO-1 task-1] INFO  traceId[885221ee-cb62-4d45-b9b4-4eeca0813004] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
+2022-01-26 12:57:47.115 [XNIO-1 task-1] INFO  traceId[37ec0f67-bae4-466e-a298-40a052948730] com.example.demo.controller.TopicManageController:49 - 提交题目信息：topicId:273
+2022-01-26 12:57:47.126 [XNIO-1 task-1] INFO  traceId[37ec0f67-bae4-466e-a298-40a052948730] com.example.demo.Interceptor.LogInterceptor:45 - 调用结束后删除...
