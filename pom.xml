@@ -206,7 +206,12 @@
             <artifactId>caffeine</artifactId>
             <version>2.7.0</version>
         </dependency>
-
+        <!-- 自定义验证注解 -->
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-validator</artifactId>
+            <version>5.2.4.Final</version>
+        </dependency>
     </dependencies>
 
     <build>
