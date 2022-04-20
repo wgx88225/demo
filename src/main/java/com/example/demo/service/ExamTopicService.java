@@ -10,4 +10,6 @@ import com.example.demo.entity.ExamTopic;
  * @CreateTime 2022年04月11日 10:14:00
  */
 public interface ExamTopicService extends IService<ExamTopic> {
+
+    void genPdf(String filename,Integer type, Integer limitNum);
 }

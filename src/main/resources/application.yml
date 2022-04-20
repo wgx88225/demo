@@ -79,6 +79,29 @@ spring:
         max-active: 8
         # #连接池最大阻塞等待时间（使用负值表示没有限制）
         max-wait: -1ms
+
+  # mail 发邮件
+  mail:
+    #smtp服务主机  qq邮箱则为smtp.qq.com  #163邮箱 smtp.163.com
+    host: smtp.163.com
+    #服务协议
+    protocol: smtp
+    # 编码集
+    default-encoding: UTF-8
+    #发送邮件的账户
+    username: wengaoxue@163.com
+#    username: 442872071@qq.com
+    #163邮箱授权码
+    password: RBDHRZBAPPHCMDHE
+#    password: qemdtpralchdcage
+    test-connection: true
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
 mybatis-plus:
   mapper-locations: classpath*:/mapper/*.xml
   # 包扫描 多个以，隔开

@@ -1,13 +1,12 @@
 package com.example.demo;
 
 import com.alibaba.fastjson.JSON;
+import com.example.demo.bo.ToEmail;
 import com.example.demo.entity.User;
+import com.example.demo.job.ExamJob;
 import com.example.demo.pdf.PdfProblem;
 import com.example.demo.redis.RedisLockLuaScript;
-import com.example.demo.service.RoleService;
-import com.example.demo.service.SeckillService;
-import com.example.demo.service.TopicManageService;
-import com.example.demo.service.UserService;
+import com.example.demo.service.*;
 import com.google.common.collect.Lists;
 import net.lingala.zip4j.core.ZipFile;
 import net.lingala.zip4j.exception.ZipException;
@@ -18,6 +17,8 @@ import org.apache.commons.io.FilenameUtils;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.mail.SimpleMailMessage;
+import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 import java.io.File;
@@ -47,6 +48,41 @@ class DemoApplicationTests {
     private RedisLockLuaScript redisLockLuaScript;
     @Autowired
     private SeckillService seckillService;
+    @Autowired
+    private ExamTopicService examTopicService;
+    @Autowired
+    private ToEmailService toEmailService;
+    @Autowired
+    private ExamJob examJob;
+
+    // 发邮件
+    @Test
+    public void sendExamJob() {
+        examJob.sendMail();
+    }
+    // 发邮件
+    @Test
+    public void sendTextMail() {
+        ToEmail toEmail = new ToEmail();
+        toEmail.setTos(new String[]{"442872071@qq.com"});
+        toEmail.setSubject("考试来了");
+        toEmail.setContent("邮件内容");
+        try {
+            toEmailService.commonEmail(toEmail);//发送
+            System.out.println("测试邮件已发送。");
+        } catch (Exception e) {
+            e.printStackTrace();
+            System.out.println("发送邮件时发生异常了！");
+        }
+
+
+    }
+
+    @Test
+    void testPdfExamTopic() throws Exception {
+        examTopicService.genPdf("D:\\高项案例背诵_", 1, 10);
+
+    }
 
     @Test
     void testSeckillService() throws Exception {
@@ -61,7 +97,7 @@ class DemoApplicationTests {
         String requestId = UUID.randomUUID().toString();
         boolean ret = redisLockLuaScript.getLock(key, requestId);
         boolean ret2 = redisLockLuaScript.getLock(key, requestId);
-        if(ret2){
+        if (ret2) {
             System.out.println("ret2成功获取到锁: 执行业务逻辑 时间较长的话，可能会失败，超时等");
         }
         if (ret) {
@@ -79,7 +115,7 @@ class DemoApplicationTests {
 
     @Test
     void testPdfProblem() throws Exception {
-        pdfProblem.genPdf("D:\\PMP错题集_",2,10);
+        pdfProblem.genPdf("D:\\PMP错题集_", 2, 10);
 //        pdfProblem.genPdf("D:\\软考架构师错题集_",2);
     }
 

@@ -41,7 +41,7 @@ public class ExamTopic implements Serializable {
     /**
      * 题目
      */
-    @NotNull(message = "题目不能为空！", groups = {AddGroup.class, UpdateGroup.class}) //修改时校验规则
+    @NotNull(message = "题目不能为空！", groups = {AddGroup.class}) //修改时校验规则
     private String topic;
 
     /**

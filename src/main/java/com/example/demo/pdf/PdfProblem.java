@@ -37,6 +37,7 @@ public class PdfProblem {
 
     @Autowired
     private TopicManageService topicManageService;
+
     // 定义全局的字体静态变量
     private static Font titlefont;
     private static Font headfont;

@@ -61,6 +61,6 @@ public class MyExceptionHandler {
         ex.printStackTrace();
         log.error("系统内部出现异常ERROR==>：", ex);
         // 参数为空的检验
-        return ResultVO.fail(HttpStatus.INTERNAL_SERVER_ERROR.value(), HttpStatus.INTERNAL_SERVER_ERROR.getReasonPhrase());
+        return ResultVO.fail(HttpStatus.INTERNAL_SERVER_ERROR.value(), "系统内部错误!");
     }
 }
