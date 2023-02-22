@@ -16,7 +16,7 @@
     <properties>
         <java.version>1.8</java.version>
         <commons.io.version>2.11.0</commons.io.version>
-        <commons.fileupload.version>1.4</commons.fileupload.version>
+        <commons.fileupload.version>1.5</commons.fileupload.version>
         <fastjson.version>1.2.76</fastjson.version>
         <druid.version>1.2.6</druid.version>
         <mybatis-plus.version>3.4.0</mybatis-plus.version>
